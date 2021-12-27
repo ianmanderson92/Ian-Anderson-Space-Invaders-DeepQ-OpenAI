@@ -1,7 +1,7 @@
 *******************************************************
 *  Name      :  Ian Anderson 
 *  Student ID:  109166476      
-*  Class     :  CSC 4800         
+*  Class     :  CSCI 4800         
 *  Lab#       :  Final Project              
 *  Due Date  :  December 8th 2020
 *******************************************************
